@@ -51,8 +51,5 @@
   "name": "@fortawesome/fontawesome-pro",
   "main": "js/fontawesome.js",
   "style": "css/fontawesome.css",
-  "license": "UNLICENSED",
-  "scripts": {
-    "postinstall": "node attribution.js"
-  }
+  "license": "UNLICENSED"
 }
